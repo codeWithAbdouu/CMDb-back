@@ -1,5 +1,5 @@
 import catchAsync from "../utils/catchAsync.js";
-import AppError from "../utils/AppError.js";
+import AppError from "../utils/appError.js";
 import APIFeatures from "../utils/APIFeatures.js";
 import Review from "../models/reviewModel.js";
 
